@@ -63,3 +63,4 @@ const num = 50;
 //         console.log('Не в этот раз')
 //         break;    
 // }
+TextDecoderStream
