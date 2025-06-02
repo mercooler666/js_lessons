@@ -35,3 +35,4 @@ first: for (let i = 0; i < 3; i++) {  //first - метка
 // Second level: 0
 // Third level: 0
 // Third level: 1
+for (let i )
