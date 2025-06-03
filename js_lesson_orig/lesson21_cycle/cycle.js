@@ -44,7 +44,7 @@ for (let i = 1; i < 2; i++) {
     console.log(i); // 1 2 3 4 5 
 } 
 ///
-for (let i = 1; i < 2; i++) {
+for (let i = 1; i < 9; i++) {
     if (i === 6) {  // условие если i = 6
         continue; // повторить цикл
     }
