@@ -51,9 +51,10 @@ const data = [5, 10, 'Shopping', 20, 'Homework'];
 function thirdTask() {
     // Значения массива менять нельзя, тут он проверяется автоматически именно на эти значения
     const data = [5, 10, 'Shopping', 20, 'Homework'];
+    data.reverse();
     const result = [];
     result.length = 0; 
-    data.push(...result);
+    result.push(...data);
     console.log(result)
 
     // Пишем решение вот тут
